@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZBranch
-- 👀 I’m interested in traveling the world. 
+- 👀 I’m interested in learning new languages to develop innovative websites and apps. 
 - 🌱 I’m currently learning JavaScript. 
 - 💞️ I’m looking to collaborate on new projects in a team setting. 
 - 📫 How to reach me: Zackwbranch@gmail.com
